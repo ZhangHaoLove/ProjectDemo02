@@ -14,7 +14,5 @@ public class MainActivity extends AppCompatActivity {
     public void set(){
 
     }
-    public void set1(){
 
-    }
 }
